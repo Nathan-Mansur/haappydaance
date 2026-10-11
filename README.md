@@ -5,7 +5,6 @@ It embeds in the studio's Squarespace site and pulls live class data from Acuity
 
 **Live site:** https://www.haappydaance.com/
 
-<img width="1451" height="895" alt="image" src="https://github.com/user-attachments/assets/d75e445d-605c-4b83-9f0b-6e7c76693ce5" />
 
 
 
@@ -51,7 +50,8 @@ It embeds in the studio's Squarespace site and pulls live class data from Acuity
 
 | Calendar | Class list | Sidebar |
 |---|---|---|
-| ![](screenshots/calendar.png) | ![](screenshots/list.png) | ![](screenshots/sidebar.png) |
+| <img width="1451" height="895" alt="image" src="https://github.com/user-attachments/assets/d75e445d-605c-4b83-9f0b-6e7c76693ce5" />
+ | ![](screenshots/list.png) | ![](screenshots/sidebar.png) |
 
 ## About this repo
 
